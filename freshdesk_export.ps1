@@ -4,7 +4,6 @@
 # Tickets + Notes
 # Will need to enter your FreshDesk URL below
 # Script will ask you for API key manually
-# Will need to update date if using since before 2020-01-01
 # Will stop and wait 60 seconds if API limit is hit
 # ============================================
 
